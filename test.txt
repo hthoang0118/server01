@@ -1,0 +1,11 @@
+total 4
+drwxr-xr-x. 2 hthoang0118 hthoang0118 38 Apr 14 08:53 Desktop
+drwxr-xr-x. 2 hthoang0118 hthoang0118  6 Apr 13 14:41 Documents
+drwxr-xr-x. 2 hthoang0118 hthoang0118  6 Apr 13 14:41 Downloads
+drwxr-xr-x. 2 hthoang0118 hthoang0118  6 Apr 13 14:41 Music
+drwxr-xr-x. 2 hthoang0118 hthoang0118  6 Apr 13 14:41 Pictures
+drwxr-xr-x. 2 hthoang0118 hthoang0118  6 Apr 13 14:41 Public
+-rw-r--r--. 1 root        root        22 Apr 20 20:00 README.md
+drwxr-xr-x. 2 hthoang0118 hthoang0118  6 Apr 13 14:41 Templates
+drwxr-xr-x. 2 root        root        22 Apr 20 20:15 test
+drwxr-xr-x. 2 hthoang0118 hthoang0118  6 Apr 13 14:41 Videos
